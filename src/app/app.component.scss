@@ -1,0 +1,21 @@
+.top {
+    padding: 100px;
+}
+
+.my-container {
+    height: 299px;
+    width: 500px;
+    overflow-y: scroll;
+    float: left;
+}
+
+.content-details {
+    height: 30px;
+    border: 1px solid red;
+}
+
+.another-container {
+    height: 300px;
+    width: 500px;
+    float: right;
+}
